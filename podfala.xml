@@ -6,7 +6,7 @@
     <language>pt-BR</language>
     <copyright>© 2022 PodFala</copyright>
     <itunes:image href="https://www.youtube.com/s/desktop/7082fe3a/img/favicon.ico" />
-    <itunes:category text="Society Culture">
+    <itunes:category text="Personal Journals">
       <itunes:category text="Personal Journals" />
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
@@ -19,7 +19,7 @@
     <itunes:type>episodic</itunes:type>
     <generator>https://rss.app</generator>
     <lastBuildDate>Thu, 18 Jul 2024 18:26:03 GMT</lastBuildDate>
-    <atom:link href="https://seu-usuario.github.io/podcast-rss/podcast.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://anchor.fm/s/f8fb1708/podcast/rss" type="application/rss+xml"/>
     
     <item>
       <title><![CDATA[Não tem nada melhor do que quando você supera alguém Feio!!]]></title>
