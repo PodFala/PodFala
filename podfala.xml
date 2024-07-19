@@ -1,31 +1,38 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title><![CDATA[PODFALA]]></title>
     <description><![CDATA[Podcast onde você PODFALA o que quiser 🎙🤟🏼]]></description>
     <link>https://www.youtube.com/@podfala9548</link>
     <language>pt-BR</language>
     <copyright>© 2022 PodFala</copyright>
-    <image>
-      <url>https://www.youtube.com/s/desktop/7082fe3a/img/favicon.ico</url>
-      <title>PODFALA</title>
-      <link>https://www.youtube.com/@podfala9548</link>
-    </image>
+    <itunes:image href="https://www.youtube.com/s/desktop/7082fe3a/img/favicon.ico" />
+    <itunes:category text="Society & Culture">
+      <itunes:category text="Personal Journals" />
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>PodFala</itunes:name>
+      <itunes:email>carolinamaiak91@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:summary><![CDATA[Podcast onde você PODFALA o que quiser 🎙🤟🏼]]></itunes:summary>
+    <itunes:author>PodFala</itunes:author>
+    <itunes:type>episodic</itunes:type>
     <generator>https://rss.app</generator>
     <lastBuildDate>Thu, 18 Jul 2024 18:26:03 GMT</lastBuildDate>
-    <atom:link href="https://anchor.fm/s/f8fb095c/podcast/rss" rel="self" type="application/rss+xml"/>
-    <dc:creator><![CDATA[PodFala]]></dc:creator>
-    <managingEditor>carolinamaiak91@gmail.com (PodFala)</managingEditor>
-    <webMaster>carolinamaiak91@gmail.com (PodFala)</webMaster>
+    <atom:link href="https://seu-usuario.github.io/podcast-rss/podcast.xml" rel="self" type="application/rss+xml"/>
     
     <item>
       <title><![CDATA[Não tem nada melhor do que quando você supera alguém Feio!!]]></title>
       <description><![CDATA[<div class="rssapp-container"> <div class="rssapp-video-iframe"><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/LonbPLIrLoA" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div></div></div> <div class="rssapp-video-description">Convidadas: Carol Garcia e Duda BertelliCorte do EP: 02Siga no insta: www.instagram.com/podfalamga/</div> </div>]]></description>
       <link>https://www.youtube.com/watch?v=LonbPLIrLoA</link>
       <guid isPermaLink="false">ee092e18e7dca11ae69c1b2a3da59a0a</guid>
-      <dc:creator><![CDATA[PODFALA]]></dc:creator>
+      <dc:creator><![CDATA[PodFala]]></dc:creator>
       <pubDate>Thu, 09 Jun 2022 21:00:18 GMT</pubDate>
-      <enclosure url="https://i.ytimg.com/vi/LonbPLIrLoA/maxresdefault.jpg" length="0" type="image/jpeg"/>
-      <media:content medium="image" url="https://i.ytimg.com/vi/LonbPLIrLoA/maxresdefault.jpg"/>
+      <enclosure url="https://i.ytimg.com/vi/LonbPLIrLoA/maxresdefault.jpg" length="12345678" type="audio/mpeg"/>
+      <itunes:duration>00:30:00</itunes:duration>
+      <itunes:summary><![CDATA[Resumo do episódio 'Não tem nada melhor do que quando você supera alguém Feio!!'.]]></itunes:summary>
+      <itunes:author>PodFala</itunes:author>
+      <content:encoded><![CDATA[<div class="rssapp-container"> <div class="rssapp-video-iframe"><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/LonbPLIrLoA" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div></div></div> <div class="rssapp-video-description">Convidadas: Carol Garcia e Duda BertelliCorte do EP: 02Siga no insta: www.instagram.com/podfalamga/</div> </div>]]></content:encoded>
     </item>
 
     <item>
@@ -33,10 +40,13 @@
       <description><![CDATA[<div class="rssapp-container"> <div class="rssapp-video-iframe"><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/L1VU0vQ8sdY" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div></div></div> <div class="rssapp-video-description">Convidadas: Carol Garcia e Duda BertelliCorte do EP: 02Siga no insta: www.instagram.com/podfalamga/</div> </div>]]></description>
       <link>https://www.youtube.com/watch?v=L1VU0vQ8sdY</link>
       <guid isPermaLink="false">9325eeb381824d1864ca125941ed608b</guid>
-      <dc:creator><![CDATA[PODFALA]]></dc:creator>
+      <dc:creator><![CDATA[PodFala]]></dc:creator>
       <pubDate>Thu, 09 Jun 2022 15:00:10 GMT</pubDate>
-      <enclosure url="https://i.ytimg.com/vi/L1VU0vQ8sdY/maxresdefault.jpg" length="0" type="image/jpeg"/>
-      <media:content medium="image" url="https://i.ytimg.com/vi/L1VU0vQ8sdY/maxresdefault.jpg"/>
+      <enclosure url="https://i.ytimg.com/vi/L1VU0vQ8sdY/maxresdefault.jpg" length="12345678" type="audio/mpeg"/>
+      <itunes:duration>00:30:00</itunes:duration>
+      <itunes:summary><![CDATA[Resumo do episódio 'A gente se entrega muito e recebe'.]]></itunes:summary>
+      <itunes:author>PodFala</itunes:author>
+      <content:encoded><![CDATA[<div class="rssapp-container"> <div class="rssapp-video-iframe"><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/L1VU0vQ8sdY" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div></div></div> <div class="rssapp-video-description">Convidadas: Carol Garcia e Duda BertelliCorte do EP: 02Siga no insta: www.instagram.com/podfalamga/</div> </div>]]></content:encoded>
     </item>
 
     <item>
@@ -44,10 +54,13 @@
       <description><![CDATA[<div class="rssapp-container"> <div class="rssapp-video-iframe"><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/SaP3cNC07jA" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div></div></div> <div class="rssapp-video-description">Convidadas: Carol Garcia e Duda BertelliCorte do EP: 02Siga no insta: www.instagram.com/podfalamga/</div> </div>]]></description>
       <link>https://www.youtube.com/watch?v=SaP3cNC07jA</link>
       <guid isPermaLink="false">6dc1dcd43c22b70270bba2058a5d0b86</guid>
-      <dc:creator><![CDATA[PODFALA]]></dc:creator>
+      <dc:creator><![CDATA[PodFala]]></dc:creator>
       <pubDate>Wed, 08 Jun 2022 23:00:07 GMT</pubDate>
-      <enclosure url="https://i.ytimg.com/vi/SaP3cNC07jA/maxresdefault.jpg" length="0" type="image/jpeg"/>
-      <media:content medium="image" url="https://i.ytimg.com/vi/SaP3cNC07jA/maxresdefault.jpg"/>
+      <enclosure url="https://i.ytimg.com/vi/SaP3cNC07jA/maxresdefault.jpg" length="12345678" type="audio/mpeg"/>
+      <itunes:duration>00:30:00</itunes:duration>
+      <itunes:summary><![CDATA[Resumo do episódio 'O ego ferido doi mais do que do coração'.]]></itunes:summary>
+      <itunes:author>PodFala</itunes:author>
+      <content:encoded><![CDATA[<div class="rssapp-container"> <div class="rssapp-video-iframe"><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/SaP3cNC07jA" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div></div></div> <div class="rssapp-video-description">Convidadas: Carol Garcia e Duda BertelliCorte do EP: 02Siga no insta: www.instagram.com/podfalamga/</div> </div>]]></content:encoded>
     </item>
 
     <item>
@@ -55,10 +68,13 @@
       <description><![CDATA[<div class="rssapp-container"> <div class="rssapp-video-iframe"><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/HRi3y3AQ4Cc" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div></div></div> <div class="rssapp-video-description">Convidadas: Carol Garcia e Duda BertelliCorte do EP: 02Siga no insta: www.instagram.com/podfalamga/</div> </div>]]></description>
       <link>https://www.youtube.com/watch?v=HRi3y3AQ4Cc</link>
       <guid isPermaLink="false">771c0382cc77b742cdb3f610a7256940</guid>
-      <dc:creator><![CDATA[PODFALA]]></dc:creator>
+      <dc:creator><![CDATA[PodFala]]></dc:creator>
       <pubDate>Wed, 08 Jun 2022 20:00:07 GMT</pubDate>
-      <enclosure url="https://i.ytimg.com/vi/HRi3y3AQ4Cc/maxresdefault.jpg" length="0" type="image/jpeg"/>
-      <media:content medium="image" url="https://i.ytimg.com/vi/HRi3y3AQ4Cc/maxresdefault.jpg"/>
+      <enclosure url="https://i.ytimg.com/vi/HRi3y3AQ4Cc/maxresdefault.jpg" length="12345678" type="audio/mpeg"/>
+      <itunes:duration>00:30:00</itunes:duration>
+      <itunes:summary><![CDATA[Resumo do episódio 'TÁ DIFÍCIL ACHAR HOMEM QUE PRESTA'.]]></itunes:summary>
+      <itunes:author>PodFala</itunes:author>
+      <content:encoded><![CDATA[<div class="rssapp-container"> <div class="rssapp-video-iframe"><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/HRi3y3AQ4Cc" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div></div></div> <div class="rssapp-video-description">Convidadas: Carol Garcia e Duda BertelliCorte do EP: 02Siga no insta: www.instagram.com/podfalamga/</div> </div>]]></content:encoded>
     </item>
 
     <item>
@@ -66,10 +82,13 @@
       <description><![CDATA[<div class="rssapp-container"> <div class="rssapp-video-iframe"><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/F9ddAEtybeY" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div></div></div> <div class="rssapp-video-description">Convidadas: Carol Garcia e Duda BertelliCorte do EP: 02Siga no insta: www.instagram.com/podfalamga/</div> </div>]]></description>
       <link>https://www.youtube.com/watch?v=F9ddAEtybeY</link>
       <guid isPermaLink="false">836acf0c45ca81494344887017c5319d</guid>
-      <dc:creator><![CDATA[PODFALA]]></dc:creator>
+      <dc:creator><![CDATA[PodFala]]></dc:creator>
       <pubDate>Wed, 08 Jun 2022 17:00:13 GMT</pubDate>
-      <enclosure url="https://i.ytimg.com/vi/F9ddAEtybeY/maxresdefault.jpg" length="0" type="image/jpeg"/>
-      <media:content medium="image" url="https://i.ytimg.com/vi/F9ddAEtybeY/maxresdefault.jpg"/>
+      <enclosure url="https://i.ytimg.com/vi/F9ddAEtybeY/maxresdefault.jpg" length="12345678" type="audio/mpeg"/>
+      <itunes:duration>00:30:00</itunes:duration>
+      <itunes:summary><![CDATA[Resumo do episódio 'ONG DAS SOLTEIRAS'.]]></itunes:summary>
+      <itunes:author>PodFala</itunes:author>
+      <content:encoded><![CDATA[<div class="rssapp-container"> <div class="rssapp-video-iframe"><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/F9ddAEtybeY" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div></div></div> <div class="rssapp-video-description">Convidadas: Carol Garcia e Duda BertelliCorte do EP: 02Siga no insta: www.instagram.com/podfalamga/</div> </div>]]></content:encoded>
     </item>
     
   </channel>
